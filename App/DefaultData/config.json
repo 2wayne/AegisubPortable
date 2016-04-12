@@ -1,0 +1,8 @@
+{
+	"App" : {
+		"Auto" : {
+			"Check For Updates" : false,
+		},
+		"Local Config" : true,
+	}
+}
